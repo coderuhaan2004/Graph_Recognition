@@ -1,1 +1,1 @@
-# Graph_Recognition
+I was trying to create a program to detect the nodes & edges of a given hand-drawn or digital graph and create the adjacency matrix corresponding to the graph. But till date i am able to create a node mask for nodes and edge mask for edges. Still working on the project !!
